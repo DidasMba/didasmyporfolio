@@ -9,14 +9,14 @@
 <body>
     
 <!-- Nav -->
-			<nav id="nav">
-				<ul class="container">
-					<li><a href="#top">Home</a></li>
-					<li><a href="#work">Work</a></li>
-					<li><a href="#portfolio">Portfolio</a></li>
-					<li><a href="#contact">Contact</a></li>
-				</ul>
-			</nav>
+	<nav id="nav">
+		<ul class="container">
+			<li><a href="#top">Home</a></li>
+			<li><a href="#work">Work</a></li>
+			<li><a href="#portfolio">Portfolio</a></li>
+			<li><a href="#contact">Contact</a></li>
+		</ul>
+	</nav>
 
 <!-- Home -->
 			<article id="top" class="wrapper style1">
